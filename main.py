@@ -5,7 +5,7 @@ from aiogram.dispatcher import Dispatcher
 from aiogram.utils import executor
 
 
-TOKEN = '6930938494:AAE_wIPMvHkxrdeDRcSr5NLb_RpKLv0Ytgw'
+TOKEN = 'TOKEN'
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
 
